@@ -1,0 +1,15 @@
+// PATHS DE SCRIPT
+set vPathInclude    = 'lib://1. Projeto/3.Include/';
+
+// PATHS DE ESTRUTURA
+set vPathProject	= 'lib://1. Projeto/';
+set vPathImport 	= 'lib://1. Projeto/5.Import/';
+
+// PATH QVDS
+set vPathExtract	= 'lib://1. Projeto/2.QVD/1.Extract/';
+set vPathTransform 	= 'lib://1. Projeto/2.QVD/2.Transform/';
+set vPathLoad 		= 'lib://1. Projeto/2.QVD/3.Load/';
+
+
+
+
